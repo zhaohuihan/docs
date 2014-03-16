@@ -29,3 +29,8 @@ This installed ``siege`` to ``/usr/local/bin/``. This should already be in your 
 ``siege``
 
 will print its usage to your screen.
+
+For example, testing a simple web app like:
+
+``siege -c100 -t1M http://localhost:3000/``
+
