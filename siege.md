@@ -1,5 +1,7 @@
-Installing siege
-================
+[Siege](http://www.joedog.org/siege-home/) is an http load testing and benchmarking utility. It was designed to let web developers measure their code under duress, to see how it will stand up to load on the internet. Siege supports basic authentication, cookies, HTTP and HTTPS protocols. It lets its user hit a web server with a configurable number of simulated web browsers.
+
+Installing siege on Mac OS X
+============================
 
 1.  Open the Terminal app
 2.  Download the latest version of siege (currently 3.0.6)
