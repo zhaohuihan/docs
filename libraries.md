@@ -1,5 +1,5 @@
-Docs
-====
+List of Libraries for Web Development
+=====================================
 
 [angularjs](http://angularjs.org/)
 ----------------------------------
@@ -17,11 +17,15 @@ The JavaScript task runner.
 --------------------------------------
 Syntax highlighting for the Web.
 
-[jade](http://jade-lang.com/)
+[Jade](http://jade-lang.com/)
 -----------------------------
 Node template engine.
 
-[mathJax](http://www.mathjax.org/)
+[JSHint](http://www.jshint.com/docs/)
+-------------------------------------
+JSHint is a program that flags suspicious usage in programs written in JavaScript. The core project consists of a library itself as well as a CLI program distributed as a Node module.
+
+[MathJax](http://www.mathjax.org/)
 ----------------------------------
 MathJax is an open source JavaScript display engine for mathematics that works in all browsers.
 
