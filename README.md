@@ -17,6 +17,10 @@ Syntax highlighting for the Web.
 -----------------------------
 Node template engine.
 
+[MathJax](http://www.mathjax.org/)
+----------------------------------
+MathJax is an open source JavaScript display engine for mathematics that works in all browsers.
+
 [mocha](http://visionmedia.github.io/mocha/)
 --------------------------------------------
 Mocha is a feature-rich JavaScript test framework running on node.js and the browser, making asynchronous testing simple and fun. Mocha tests run serially, allowing for flexible and accurate reporting, while mapping uncaught exceptions to the correct test cases.
