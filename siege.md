@@ -10,4 +10,13 @@ Installing siege
    
    ``tar -xvf siege-latest.tar.gz``
    
-4. 
+4. Change directories to the extracted directory (again, currently siege-3.0.6)
+   
+   ``cd siege-3.0.6/``
+   
+5. Run the following commands (one at a time) to build and install siege. If you have an older version of siege 
+   read the INSTALL file for more instructions.
+   
+   ``./configure``
+   ``make`` 
+   ``make install``
