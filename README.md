@@ -9,6 +9,10 @@ HTML enhanced for web apps.
 -------------------------
 Bower is a package manager for the web. It offers a generic, unopinionated solution to the problem of front-end package management, while exposing the package dependency model via an API that can be consumed by a more opinionated build stack. There are no system wide dependencies, no dependencies are shared between different apps, and the dependency tree is flat.
 
+[grunt](http://gruntjs.com/)
+----------------------------
+The JavaScript task runner.
+
 [highlightjs](http://highlightjs.org/)
 --------------------------------------
 Syntax highlighting for the Web.
@@ -17,7 +21,7 @@ Syntax highlighting for the Web.
 -----------------------------
 Node template engine.
 
-[MathJax](http://www.mathjax.org/)
+[mathJax](http://www.mathjax.org/)
 ----------------------------------
 MathJax is an open source JavaScript display engine for mathematics that works in all browsers.
 
