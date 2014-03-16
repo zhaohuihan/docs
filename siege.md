@@ -7,3 +7,7 @@ Installing siege
    ``curl -C - -O http://www.joedog.org/pub/siege/siege-latest.tar.gz``
    
 3. Extract the tarball
+   
+   ``tar -xvf siege-latest.tar.gz``
+   
+4. 
