@@ -1,9 +1,25 @@
 Docs
 ====
 
+[angularjs](http://angularjs.org/)
+----------------------------------
+HTML enhanced for web apps.
+
+[bower](http://bower.io/)
+-------------------------
+Bower is a package manager for the web. It offers a generic, unopinionated solution to the problem of front-end package management, while exposing the package dependency model via an API that can be consumed by a more opinionated build stack. There are no system wide dependencies, no dependencies are shared between different apps, and the dependency tree is flat.
+
 [highlightjs](http://highlightjs.org/)
 --------------------------------------
 Syntax highlighting for the Web.
+
+[jade](http://jade-lang.com/)
+-----------------------------
+Node template engine.
+
+[mocha](http://visionmedia.github.io/mocha/)
+--------------------------------------------
+Mocha is a feature-rich JavaScript test framework running on node.js and the browser, making asynchronous testing simple and fun. Mocha tests run serially, allowing for flexible and accurate reporting, while mapping uncaught exceptions to the correct test cases.
 
 [mongoDB](https://www.mongodb.org/)
 -----------------------------------
@@ -17,6 +33,8 @@ An elegant mongodb object modeling for node.js.
 ------------------------------------------
 Siege is an http load testing and benchmarking utility. It was designed to let web developers measure their code under duress, to see how it will stand up to load on the internet. Siege supports basic authentication, cookies, HTTP and HTTPS protocols. It lets its user hit a web server with a configurable number of simulated web browsers.
 
-
+[stylus](http://learnboost.github.io/stylus/)
+---------------------------------------------
+Expressive, dynamic, robust CSS.
 
 
