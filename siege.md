@@ -21,3 +21,9 @@ Installing siege
     ./configure
     make
     make install
+
+This installed ``siege`` to ``/usr/local/bin/``. This should already be in your ``PATH``, so type:
+
+``siege``
+
+will print its usage to your screen.
