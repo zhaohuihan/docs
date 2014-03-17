@@ -11,7 +11,7 @@ Bower is a package manager for the web. It offers a generic, unopinionated solut
 
 [grunt](http://gruntjs.com/)
 ----------------------------
-The JavaScript task runner.
+The JavaScript task runner. The alternative is the streaming build system [gulp](http://gulpjs.com/).
 
 [highlightjs](http://highlightjs.org/)
 --------------------------------------
