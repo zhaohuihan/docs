@@ -10,9 +10,10 @@ HTML enhanced for web apps.
 -------------------------
 Bower is a package manager for the web. It offers a generic, unopinionated solution to the problem of front-end package management, while exposing the package dependency model via an API that can be consumed by a more opinionated build stack. There are no system wide dependencies, no dependencies are shared between different apps, and the dependency tree is flat.
 
-[grunt](http://gruntjs.com/)
-----------------------------
-The JavaScript task runner. The alternative is the streaming build system [gulp](http://gulpjs.com/).
+Task runner
+-----------
+- [grunt](http://gruntjs.com/): The JavaScript task runner. 
+- [gulp](http://gulpjs.com/): the streaming JavaScript build system.
 
 [highlightjs](http://highlightjs.org/)
 --------------------------------------
