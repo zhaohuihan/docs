@@ -4,6 +4,7 @@ List of Libraries for Web Development
 [angularjs](http://angularjs.org/)
 ----------------------------------
 HTML enhanced for web apps.
+- [tutorial](http://docs.angularjs.org/tutorial)
 
 [bower](http://bower.io/)
 -------------------------
