@@ -15,9 +15,10 @@ Task runner
 - [grunt](http://gruntjs.com/): The JavaScript task runner. 
 - [gulp](http://gulpjs.com/): the streaming JavaScript build system.
 
-[highlightjs](http://highlightjs.org/)
---------------------------------------
-Syntax highlighting for the Web.
+Syntax highlighter
+------------------
+- [highlightjs](http://highlightjs.org/): Syntax highlighting for the Web.
+- [Prism](http://prismjs.com/): Prism is a lightweight, extensible syntax highlighter, built with modern web standards in mind.
 
 [Jade](http://jade-lang.com/)
 -----------------------------
