@@ -16,5 +16,6 @@ sudo n 0.10.26
 ```
 
 Once your install is complete, you can confirm you version with another command:
-
+```shell
 node -v
+```
